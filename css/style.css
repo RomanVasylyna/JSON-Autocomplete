@@ -1,0 +1,13 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+.card{
+background: rgb(47, 47, 47);
+cursor: pointer;
+}
+
+.card:hover{
+background: rgb(0, 0, 0);
+}
